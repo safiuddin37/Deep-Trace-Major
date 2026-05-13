@@ -326,7 +326,7 @@ Full list: `requirements.txt`
 
 ## 👨‍💻 Authors & Credits
 
-**Mohammed Irfan**
+**Mohammed Safiuddin**
 
 ---
 
